@@ -1,1 +1,8 @@
+# System packages (install with apt):
+# python3-pyaudio
+# python3-numpy
+# git
+# make
+# build-essential
 
+# No additional pip packages needed - using system packages
