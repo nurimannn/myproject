@@ -1,1 +1,9 @@
+symspellpy==6.7.8
+pyspellchecker==0.8.1
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+hunspell==0.5.5
+transformers==4.44.2
+torch>=2.2.0
+tokenizers>=0.15.0
 
